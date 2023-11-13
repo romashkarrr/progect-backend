@@ -45,48 +45,48 @@ export const links = [
         "https://cdn4.iconfinder.com/data/icons/tabler-vol-2/24/building-castle-512.png",
     },
     {
-      label: "Замки",
+      label: "Печери",
       imgSrc:
-        "https://cdn4.iconfinder.com/data/icons/tabler-vol-2/24/building-castle-512.png",
+        "https://a0.muscache.com/pictures/4221e293-4770-4ea8-a4fa-9972158d4004.jpg",
     },
     {
-      label: "Замки",
+      label: "Виноградники",
       imgSrc:
-        "https://cdn4.iconfinder.com/data/icons/tabler-vol-2/24/building-castle-512.png",
+        "https://a0.muscache.com/pictures/60ff02ae-d4a2-4d18-a120-0dd274a95925.jpg",
     },
     {
-      label: "Замки",
+      label: "Біля озера",
       imgSrc:
-        "https://cdn4.iconfinder.com/data/icons/tabler-vol-2/24/building-castle-512.png",
+        "https://a0.muscache.com/pictures/a4634ca6-1407-4864-ab97-6e141967d782.jpg",
     },
     {
-      label: "Замки",
+      label: "Пляжі",
       imgSrc:
-        "https://cdn4.iconfinder.com/data/icons/tabler-vol-2/24/building-castle-512.png",
+        "https://a0.muscache.com/pictures/10ce1091-c854-40f3-a2fb-defc2995bcaf.jpg",
     },
     {
-      label: "Замки",
+      label: "Кімнати",
       imgSrc:
-        "https://cdn4.iconfinder.com/data/icons/tabler-vol-2/24/building-castle-512.png",
+        "https://a0.muscache.com/pictures/7630c83f-96a8-4232-9a10-0398661e2e6f.jpg",
     },
     {
-      label: "Замки",
+      label: "Історичні помешкання",
       imgSrc:
-        "https://cdn4.iconfinder.com/data/icons/tabler-vol-2/24/building-castle-512.png",
+        "https://a0.muscache.com/pictures/33dd714a-7b4a-4654-aaf0-f58ea887a688.jpg",
     },
     {
-      label: "Замки",
+      label: "Віддаленя помешкання",
       imgSrc:
-        "https://cdn4.iconfinder.com/data/icons/tabler-vol-2/24/building-castle-512.png",
+        "https://a0.muscache.com/pictures/9a2ca4df-ee90-4063-b15d-0de7e4ce210a.jpg",
     },
     {
-      label: "Замки",
+      label: "Національні парки",
       imgSrc:
-        "https://cdn4.iconfinder.com/data/icons/tabler-vol-2/24/building-castle-512.png",
+        "https://a0.muscache.com/pictures/c0a24c04-ce1f-490c-833f-987613930eca.jpg",
     },
     {
-      label: "Замки",
+      label: "Трикутні зруби",
       imgSrc:
-        "https://cdn4.iconfinder.com/data/icons/tabler-vol-2/24/building-castle-512.png",
+        "https://a0.muscache.com/pictures/1d477273-96d6-4819-9bda-9085f809dad3.jpg",
     },
   ];
