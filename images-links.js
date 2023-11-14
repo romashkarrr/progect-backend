@@ -10,11 +10,6 @@ export const links = [
         "https://cdn4.iconfinder.com/data/icons/travel-2-11/512/travel-tourism-vacation-holiday-27-512.png",
     },
     {
-      label: "Популярні",
-      imgSrc:
-        "https://cdn1.iconfinder.com/data/icons/carbon-design-system-vol-4/32/fire-512.png",
-    },
-    {
       label: "Дивовижні басейни",
       imgSrc:
         "https://cdn0.iconfinder.com/data/icons/travel-617/24/Travel_expanded-75-512.png",
@@ -58,11 +53,6 @@ export const links = [
       label: "Біля озера",
       imgSrc:
         "https://a0.muscache.com/pictures/a4634ca6-1407-4864-ab97-6e141967d782.jpg",
-    },
-    {
-      label: "Кімнати",
-      imgSrc:
-        "https://a0.muscache.com/pictures/7630c83f-96a8-4232-9a10-0398661e2e6f.jpg",
     },
     {
       label: "Віддаленя помешкання",
