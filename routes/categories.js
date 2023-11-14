@@ -1,4 +1,4 @@
-export const links = [
+const categories = [
     {
       label: "Легендарні міста",
       imgSrc:
@@ -60,3 +60,6 @@ export const links = [
         "https://a0.muscache.com/pictures/9a2ca4df-ee90-4063-b15d-0de7e4ce210a.jpg",
     },
   ];
+  
+  module.exports = categories;
+  
