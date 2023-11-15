@@ -1,10 +1,16 @@
 const mongoose = require('mongoose');
 
 const linkSchema = new mongoose.Schema({
-  label: String,
-  imgSrc: String,
+  title: String,
+  imgSrc: [String],
+  rating: String,
+  category: String,
+  desc: String,
+  price: String,
+  data: String,
 });
 
-const Link = mongoose.model('Link', linkSchema);
+// Змініть 'Link' на бажану назву колекції, наприклад, 'Picture'
+const Picture = mongoose.model('Picture', linkSchema);
 
-module.exports = Link;
+module.exports = Picture;

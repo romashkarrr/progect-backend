@@ -1,18 +1,20 @@
-const db = require('./db');
-const Link = require('./model');
-const links = require('./links'); 
+// insertData.js
+const db = require('./db'); // Ваш db.js
+const Listing = require('./Listing'); // Ваш Listing.js
 
-db.once('open', async () => {
-  console.log('Підключено до MongoDB');
+const list = [
+  // Ваш масив даних
+];
 
-  await Link.deleteMany();
-
+async function insertData() {
   try {
-    const insertedLinks = await Link.insertMany(links);
-    console.log('Дані успішно додані до бази даних:', insertedLinks);
+    await Listing.insertMany(list);
+    console.log('Дані успішно вставлені в базу даних.');
   } catch (error) {
-    console.error('Помилка при вставці даних:', error);
+    console.error('Помилка вставки даних:', error);
+  } finally {
+    db.close();
   }
+}
 
-  db.close();
-});
+insertData();

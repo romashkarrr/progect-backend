@@ -1,7 +1,7 @@
-// ListModel.js
+
 const mongoose = require('mongoose');
 
-const listSchema = new mongoose.Schema({
+const listingSchema = new mongoose.Schema({
   title: String,
   imgSrc: [String],
   rating: String,
@@ -11,6 +11,6 @@ const listSchema = new mongoose.Schema({
   data: String,
 });
 
-const List = mongoose.model('List', listSchema);
+const Listing = mongoose.model('Listing', listingSchema);
 
-module.exports = List;
+module.exports = Listing;
